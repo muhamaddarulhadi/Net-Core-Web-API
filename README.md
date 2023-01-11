@@ -1,4 +1,4 @@
-# Net Core Web API
+# ASP Net Core Web API
 
 ### Overview
 
@@ -18,7 +18,7 @@
 
 ***
 
-### Create .Net Core web API
+### Create ASP .Net Core Web API
 
 #### .Net 7
 
