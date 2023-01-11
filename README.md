@@ -6,6 +6,15 @@
 2. [Minimal APIs overview](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/overview?view=aspnetcore-7.0)
 3. [Authentication and authorization in minimal APIs](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/security?view=aspnetcore-7.0)
 4. [Claims-based authorization in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/security/authorization/claims?view=aspnetcore-7.0)
+5. [ASP.NET Core Web API Authentication and Authorization with JWT (Json Web Token)](https://www.youtube.com/watch?v=kM1fPt1BcLc)
+6. [ASP.NET Core Web API: Authorization](https://auth0.com/docs/quickstart/backend/aspnet-core-webapi)
+7. [ASP.NET Core Web API: Using your API](https://auth0.com/docs/quickstart/backend/aspnet-core-webapi/02-using)
+8. [What is Web API? When should we use in our projects?](https://www.sharepointcafe.net/2016/09/what-is-web-api-when-should-we-use-in.html)
+9. [How to secure ASP.NET Core Web API using API Key Authentication?](https://www.sharepointcafe.net/2020/08/setting-up-apikey-based-authentication.html)
+10. [How to consume RESTful APi from server side code – C#](https://www.sharepointcafe.net/2015/06/calling-webapi-from-server-side-code.html)
+11. [How to consume REST API from ASP.NET Razor Web Pages?](https://www.sharepointcafe.net/2022/08/how-to-consume-rest-api-from-asp-net-razor-web-pages.html)
+12. [Using Minimal APIs in ASP.NET Core Razor Pages](https://www.mikesdotnetting.com/article/358/using-minimal-apis-in-asp-net-core-razor-pages)
+13. [Integrating Web API with ASP.NET Razor Web Pages](https://www.mikesdotnetting.com/article/261/integrating-web-api-with-asp-net-razor-web-pages)
 
 ***
 
