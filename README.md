@@ -39,6 +39,17 @@
 
 ***
 
+### Web Services vs Web API 
+
+1. [Web Services VS Web API](https://www.javatpoint.com/soapui-web-services-vs-web-api#:~:text=Web%20service%20is%20used%20to,Data%20can%20be%20compressed.)
+2. [API vs Web Service – Difference Between Them](https://www.guru99.com/api-vs-web-service-difference.html)
+3. [Differences between Web Services and Web API](https://www.geeksforgeeks.org/differences-between-web-services-and-web-api/)
+4. [Web Service vs. API, Explained](https://blog.hubspot.com/website/web-services-vs-api)
+5. [What Is The Difference Between Web Services and APIs?](https://nordicapis.com/what-is-the-difference-between-web-services-and-apis/)
+6. [What is the difference between a web API and a web service?](https://stackoverflow.com/questions/19336347/what-is-the-difference-between-a-web-api-and-a-web-service)
+
+***
+
 ### Reference
 
 1. [Tutorial: Create a web API with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio-code)
