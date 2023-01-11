@@ -1,6 +1,29 @@
 # Net Core web-API
 
-#### Reference
+***
+
+### Create .Net Core web API
+
+#### .Net 7
+
+1. [Create a web API with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-7.0&tabs=visual-studio-code)
+2. [Create a minimal web API with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-7.0&tabs=visual-studio-code)
+
+#### .Net 6
+
+1. [Create a web API with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio-code)
+2. [Create a minimal web API with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-6.0&tabs=visual-studio-code)
+3. [How to Create a Web API with ASP.NET CORE and .NET 6 (c# for beginners)](https://www.youtube.com/watch?v=elMpS1Js7rc)
+
+#### .Net 5
+
+1. [How To Develop A RESTful Web Service In ASP.NET Core 5 Web API](https://www.c-sharpcorner.com/article/create-restful-web-service-in-asp-net-core-5-web-api/)
+2. [Create a web API with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio-code)
+3. [Create a minimal web API with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-5.0&tabs=visual-studio-code)
+
+***
+
+### Reference
 
 1. [Tutorial: Create a web API with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio-code)
 2. [Building an ASP.NET Web API With ASP.NET Core](https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial)
