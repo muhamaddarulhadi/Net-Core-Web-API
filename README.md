@@ -15,6 +15,8 @@
 11. [How to consume REST API from ASP.NET Razor Web Pages?](https://www.sharepointcafe.net/2022/08/how-to-consume-rest-api-from-asp-net-razor-web-pages.html)
 12. [Using Minimal APIs in ASP.NET Core Razor Pages](https://www.mikesdotnetting.com/article/358/using-minimal-apis-in-asp-net-core-razor-pages)
 13. [Integrating Web API with ASP.NET Razor Web Pages](https://www.mikesdotnetting.com/article/261/integrating-web-api-with-asp-net-razor-web-pages)
+14. https://medium.com/@gauravyeole/create-asp-net-core-web-api-project-in-visual-studio-code-vs-code-part-1-8fcbc5ea6112
+15. https://medium.com/geekculture/rest-api-best-practices-implement-design-patterns-for-maintainable-web-apis-in-asp-net-core-4b9118df39a
 
 ***
 
