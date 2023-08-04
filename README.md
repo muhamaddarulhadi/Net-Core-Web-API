@@ -52,6 +52,18 @@
 
 ***
 
+### Swagger
+
+1. https://www.youtube.com/watch?v=rqBuhiR1x0M
+2. https://www.mitrais.com/news-updates/using-swagger-in-net-core/
+3. https://www.c-sharpcorner.com/article/customize-swagger-ui-in-asp-net-web-api-restful-service/
+4. https://medium.com/geekculture/customizing-swagger-in-asp-net-core-5-2c98d03cbe52
+5. https://www.c-sharpcorner.com/article/swagger-in-dotnet-core/
+6. https://learn.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-7.0&tabs=visual-studio-code
+7. https://code-maze.com/swagger-ui-asp-net-core-web-api/
+
+***
+
 ### New Reference
 
 1. https://www.youtube.com/watch?v=3NWT9k-6xGg
