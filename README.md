@@ -64,6 +64,15 @@
 8. https://www.youtube.com/watch?v=GNJ1EKavzGk
 9. https://www.youtube.com/watch?v=3_oGxPpSjLw
 10. https://www.endpointdev.com/blog/2022/06/implementing-authentication-in-asp.net-core-web-apis/
+11. https://www.youtube.com/watch?v=bgsROO8kDh0
+12. https://www.youtube.com/watch?v=ufHlJLPK5CA
+13. https://www.youtube.com/watch?v=24JVFVVk9K0
+14. https://www.youtube.com/watch?v=oyNXbkYkUOU
+15. https://www.youtube.com/watch?v=LZJvdFDCKxM
+16. https://www.youtube.com/watch?v=DwDx_4yIESo
+17. https://www.youtube.com/watch?v=dtthbiP3SE0
+18. https://www.youtube.com/watch?v=KDdJjpnCCrs&t=1s
+19. https://www.youtube.com/watch?v=FDx43P_3PKk
 
 ### Reference
 
