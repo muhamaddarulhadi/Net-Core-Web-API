@@ -52,6 +52,19 @@
 
 ***
 
+### New Reference
+
+1. https://www.youtube.com/watch?v=3NWT9k-6xGg
+2. https://www.youtube.com/watch?v=Fbf_ua2t6v4
+3. https://www.youtube.com/watch?v=nSHi9fwrue8
+4. https://www.youtube.com/watch?v=DoYmpAPoixI
+5. https://thecodeblogger.com/2020/01/23/adding-asp-net-core-identity-to-web-api-project/
+6. https://www.c-sharpcorner.com/article/authentication-and-authorization-in-asp-net-core-web-api-with-json-web-tokens/
+7. https://www.c-sharpcorner.com/article/jwt-authentication-and-authorization-in-net-6-0-with-identity-framework/
+8. https://www.youtube.com/watch?v=GNJ1EKavzGk
+9. https://www.youtube.com/watch?v=3_oGxPpSjLw
+10. https://www.endpointdev.com/blog/2022/06/implementing-authentication-in-asp.net-core-web-apis/
+
 ### Reference
 
 1. [Tutorial: Create a web API with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio-code)
